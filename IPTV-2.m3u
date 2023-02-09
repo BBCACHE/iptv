@@ -1,0 +1,101 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV1
+https://live.v1.mk/aishang/cctv1hd
+#EXTINF:-1 ,CCTV2
+https://live.v1.mk/aishang/cctv2hd
+#EXTINF:-1 ,CCTV3
+https://live.v1.mk/aishang/cctv3hd
+#EXTINF:-1 ,CCTV4
+https://live.v1.mk/aishang/cctv4hd
+#EXTINF:-1 ,CCTV5
+https://live.v1.mk/aishang/cctv5hd
+#EXTINF:-1 ,CCTV5+
+https://live.v1.mk/aishang/cctv5p
+#EXTINF:-1 ,CCTV6
+https://live.v1.mk/aishang/cctv6hd
+#EXTINF:-1 ,CCTV7
+https://live.v1.mk/aishang/cctv7hd
+#EXTINF:-1 ,CCTV8
+https://live.v1.mk/aishang/cctv8hd
+#EXTINF:-1 ,CCTV9
+https://live.v1.mk/aishang/cctv9hd2
+#EXTINF:-1 ,CCTV10
+https://live.v1.mk/aishang/cctv10hd
+#EXTINF:-1 ,CCTV11
+https://live.v1.mk/aishang/cctv11hd
+#EXTINF:-1 ,CCTV12
+https://live.v1.mk/aishang/cctv12hd
+#EXTINF:-1 ,CCTV13
+https://live.v1.mk/aishang/cctv13hd
+#EXTINF:-1 ,CCTV14
+https://live.v1.mk/aishang/cctv14hd
+#EXTINF:-1 ,CCTV15
+https://live.v1.mk/aishang/cctv15hd
+#EXTINF:-1 ,CCTV16
+https://live.v1.mk/aishang/cctv16hd
+#EXTINF:-1 ,CCTV17
+https://live.v1.mk/aishang/cctv17hd
+#EXTINF:-1 ,四平1
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.130:5540
+#EXTINF:-1 ,四平2
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.131:5540
+#EXTINF:-1 ,四平新闻综合
+http://stream2.jlntv.cn/sptv/sd/live.m3u8
+#EXTINF:-1 ,吉林卫视
+https://live.v1.mk/aishang/jlws
+#EXTINF:-1 ,北京卫视
+https://live.v1.mk/aishang/bjwshd
+#EXTINF:-1 ,湖南卫视
+https://live.v1.mk/aishang/hunwshd
+#EXTINF:-1 ,浙江卫视
+https://live.v1.mk/aishang/zjwshd
+#EXTINF:-1 ,天津卫视
+https://live.v1.mk/aishang/tjwshd
+#EXTINF:-1 ,东南卫视
+https://live.v1.mk/aishang/dnwshd
+#EXTINF:-1 ,东方卫视
+https://live.v1.mk/aishang/dfwshd
+#EXTINF:-1 ,云南卫视
+https://live.v1.mk/aishang/ynws
+#EXTINF:-1 ,四川卫视
+https://live.v1.mk/aishang/scws
+#EXTINF:-1 ,安徽卫视
+https://live.v1.mk/aishang/ahwshd
+#EXTINF:-1 ,广东卫视
+https://live.v1.mk/aishang/gdwshd
+#EXTINF:-1 ,江苏卫视
+https://live.v1.mk/aishang/jswshd
+#EXTINF:-1 ,广西卫视
+https://live.v1.mk/aishang/gxws
+#EXTINF:-1 ,江西卫视
+https://live.v1.mk/aishang/jxws
+#EXTINF:-1 ,河北卫视
+https://live.v1.mk/aishang/hbwshd
+#EXTINF:-1 ,河南卫视
+https://live.v1.mk/aishang/hnws
+#EXTINF:-1 ,深圳卫视
+https://live.v1.mk/aishang/szwshd
+#EXTINF:-1 ,湖北卫视
+https://live.v1.mk/aishang/hubwshd
+#EXTINF:-1 ,贵州卫视
+https://live.v1.mk/aishang/gzwshd
+#EXTINF:-1 ,重庆卫视
+https://live.v1.mk/aishang/cqws
+#EXTINF:-1 ,黑龙江卫视
+https://live.v1.mk/aishang/hljwshd
+#EXTINF:-1 ,山东卫视
+https://live.v1.mk/aishang/sdwshd
+#EXTINF:-1 ,陕西卫视
+https://live.v1.mk/aishang/sxws
+#EXTINF:-1 ,甘肃卫视
+https://live.v1.mk/aishang/gsws
+#EXTINF:-1 ,厦门卫视
+https://live.v1.mk/aishang/xmws
+#EXTINF:-1 ,内蒙古卫视
+https://live.v1.mk/aishang/nmws
+#EXTINF:-1 ,新疆卫视
+https://live.v1.mk/aishang/xjws
+#EXTINF:-1 ,西藏卫视
+https://live.v1.mk/aishang/xzws
+#EXTINF:-1 ,青海卫视
+https://live.v1.mk/aishang/qhws

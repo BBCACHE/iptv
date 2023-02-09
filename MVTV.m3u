@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 ,CHC动作电影
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.186:5540
+#EXTINF:-1 ,CHC高清电影
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.187:5540
+#EXTINF:-1 ,CHC家庭影院
+http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
+#EXTINF:-1 ,豆瓣评分
+http://epg.112114.xyz/douyu/8770422
+#EXTINF:-1 ,4K超清电影
+http://159.75.85.63:5681/sxg.php
+#EXTINF:-1 ,名侦探柯南
+http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_157_600_t10/c54_lb_157_600_t10.m3u8?key=0b292c335e5837e948e91dd5d11efa525
+#EXTINF:-1 ,哈利波特
+http://epg.112114.xyz/douyu/8814650
+#EXTINF:-1 ,电影频道1
+http://epg.112114.xyz/douyu/9651304
+#EXTINF:-1 ,电影频道2
+http://epg.112114.xyz/douyu/6140589
+#EXTINF:-1 ,电影频道3
+http://epg.112114.xyz/douyu/9292492
+#EXTINF:-1 ,电影频道4
+http://epg.112114.xyz/douyu/3637726
+#EXTINF:-1 ,电影频道5
+http://epg.112114.xyz/douyu/2516864
+#EXTINF:-1 ,电影频道6
+http://epg.112114.xyz/douyu/9650887
+#EXTINF:-1 ,电影频道7
+http://epg.112114.xyz/douyu/3637765
+#EXTINF:-1 ,电影频道8
+http://epg.112114.xyz/douyu/9650887
+#EXTINF:-1 ,电影频道9
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
