@@ -218,6 +218,12 @@ http://epg.112114.xyz/douyu/7888428
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTVEFEL.png" group-title="影视",哆啦A梦
 http://zzy789.xyz/bili.php?id=482946
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="影视",星光电影
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="影视",评分电影
+http://epg.112114.xyz/douyu/8770422
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.chinatft.org/static/admin/kindeditor/attached/image/20181012/20181012104156_15574.jpg" group-title="影视",IPTV电影
 http://wabc.ml/sxg.php?id=emdy4k_8000
 
@@ -232,12 +238,6 @@ http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.chinatft.org/static/admin/kindeditor/attached/image/20181012/20181012104156_15574.jpg" group-title="影视",IPTV电影
 http://nas.jdshipin.com:8801/4kys.php
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="影视",星光电影
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="影视",评分电影
-http://epg.112114.xyz/douyu/8770422
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="斗鱼",轮播电影01
