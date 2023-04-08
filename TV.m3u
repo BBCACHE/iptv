@@ -224,10 +224,13 @@ https://live.v1.mk/api/sxg.php?id=emdy4k_8000
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.chinatft.org/static/admin/kindeditor/attached/image/20181012/20181012104156_15574.jpg" group-title="影视",IPTV电影
-http://r.jdshipin.com/OeHMu
+http://router.tonyliangli.cn:4022/rtp/239.3.1.250:8001
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.chinatft.org/static/admin/kindeditor/attached/image/20181012/20181012104156_15574.jpg" group-title="影视",IPTV电影
 http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.chinatft.org/static/admin/kindeditor/attached/image/20181012/20181012104156_15574.jpg" group-title="影视",IPTV电影
+http://119.39.128.18:88/hls/34/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.chinatft.org/static/admin/kindeditor/attached/image/20181012/20181012104156_15574.jpg" group-title="影视",IPTV电影
 http://nas.jdshipin.com:8801/4kys.php
