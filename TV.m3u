@@ -236,6 +236,12 @@ http://epg.112114.xyz/douyu/8770422
 https://live.v1.mk/api/sxg.php?id=emdy4k_8000
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.chinatft.org/static/admin/kindeditor/attached/image/20181012/20181012104156_15574.jpg" group-title="影视",IPTV电影
+https://live.v1.mk/api/bestv.php?id=qqdp8m/8000000
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.chinatft.org/static/admin/kindeditor/attached/image/20181012/20181012104156_15574.jpg" group-title="影视",IPTV电影
+https://live.v1.mk/api/bestv.php?id=xgyy8m/8000000
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.chinatft.org/static/admin/kindeditor/attached/image/20181012/20181012104156_15574.jpg" group-title="影视",IPTV电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.chinatft.org/static/admin/kindeditor/attached/image/20181012/20181012104156_15574.jpg" group-title="影视",IPTV电影
